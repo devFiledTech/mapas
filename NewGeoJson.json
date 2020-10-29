@@ -2281,12 +2281,11 @@
 					]
 				]
 			}
-		}
-		,
+		},
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao JT1",
+				"Name": "Talhao J1",
 				"description": null,
 				"tessellate": 1
 			},
@@ -2317,10 +2316,9 @@
 					]
 				]
 			}
-		}
-		,
+		},
 		{
-		 "type": "Feature",
+			"type": "Feature",
 			"properties": {
 				"Name": "Talhao JT2",
 				"description": null,
@@ -2533,9 +2531,7 @@
 					]
 				]
 			}
-		}
-		,
-		"features": [
+		},
 		{
 			"type": "Feature",
 			"properties": {
@@ -2586,9 +2582,7 @@
 					]
 				]
 			}
-		}
-		,
-		"features": [
+		},
 		{
 			"type": "Feature",
 			"properties": {
@@ -2639,8 +2633,7 @@
 					]
 				]
 			}
-		}
-		,
+		},
 		{
 			"type": "Feature",
 			"properties": {
