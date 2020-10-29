@@ -11,7 +11,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao NV3",
+				"Name": "NV3",
 				"description": null
 			},
 			"geometry": {
@@ -157,7 +157,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao NV4",
+				"Name": "NV4",
 				"description": null
 			},
 			"geometry": {
@@ -235,7 +235,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao NV5",
+				"Name": "NV5",
 				"description": null
 			},
 			"geometry": {
@@ -317,7 +317,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ONC",
+				"Name": "ONC",
 				"description": null
 			},
 			"geometry": {
@@ -379,7 +379,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP 7",
+				"Name": "OP 7",
 				"description": null
 			},
 			"geometry": {
@@ -497,7 +497,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP1",
+				"Name": "OP1",
 				"description": null
 			},
 			"geometry": {
@@ -531,7 +531,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP2",
+				"Name": "OP2",
 				"description": null
 			},
 			"geometry": {
@@ -593,7 +593,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP3",
+				"Name": "OP3",
 				"description": null
 			},
 			"geometry": {
@@ -627,7 +627,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP4",
+				"Name": "OP4",
 				"description": null
 			},
 			"geometry": {
@@ -661,7 +661,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT6",
+				"Name": "MT6",
 				"description": null
 			},
 			"geometry": {
@@ -715,7 +715,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT7",
+				"Name": "MT7",
 				"description": null
 			},
 			"geometry": {
@@ -797,7 +797,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT8",
+				"Name": "MT8",
 				"description": null
 			},
 			"geometry": {
@@ -831,7 +831,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT9",
+				"Name": "MT9",
 				"description": null
 			},
 			"geometry": {
@@ -1241,7 +1241,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT10A",
+				"Name": "MT10A",
 				"description": null
 			},
 			"geometry": {
@@ -1771,7 +1771,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT10B",
+				"Name": "MT10B",
 				"description": null
 			},
 			"geometry": {
@@ -2081,7 +2081,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao NV1",
+				"Name": "NV1",
 				"description": null
 			},
 			"geometry": {
@@ -2175,7 +2175,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao NV2",
+				"Name": "NV2",
 				"description": null
 			},
 			"geometry": {
@@ -2285,7 +2285,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao J5",
+				"Name": "J5",
 				"description": null
 			},
 			"geometry": {
@@ -2343,7 +2343,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao J6",
+				"Name": "J6",
 				"description": null
 			},
 			"geometry": {
@@ -2377,7 +2377,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao J7",
+				"Name": "J7",
 				"description": null
 			},
 			"geometry": {
@@ -2539,7 +2539,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao J8",
+				"Name": "J8",
 				"description": null
 			},
 			"geometry": {
@@ -2581,7 +2581,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT1",
+				"Name": "MT1",
 				"description": null
 			},
 			"geometry": {
@@ -2655,7 +2655,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT2",
+				"Name": "MT2",
 				"description": null
 			},
 			"geometry": {
@@ -2689,7 +2689,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT4",
+				"Name": "MT4",
 				"description": null
 			},
 			"geometry": {
@@ -2723,7 +2723,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao MT5",
+				"Name": "MT5",
 				"description": null
 			},
 			"geometry": {
@@ -2769,7 +2769,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao A1",
+				"Name": "A1",
 				"description": null
 			},
 			"geometry": {
@@ -2807,7 +2807,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP5",
+				"Name": "OP5",
 				"description": null
 			},
 			"geometry": {
@@ -2841,7 +2841,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP6",
+				"Name": "OP6",
 				"description": null
 			},
 			"geometry": {
@@ -2911,7 +2911,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao OP8",
+				"Name": "OP8",
 				"description": null
 			},
 			"geometry": {
@@ -2945,7 +2945,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao A2",
+				"Name": "A2",
 				"description": null
 			},
 			"geometry": {
@@ -2979,7 +2979,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao A3",
+				"Name": "A3",
 				"description": null
 			},
 			"geometry": {
@@ -3073,7 +3073,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao A4",
+				"Name": "A4",
 				"description": null
 			},
 			"geometry": {
@@ -3107,7 +3107,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao C1",
+				"Name": "C1",
 				"description": null
 			},
 			"geometry": {
@@ -3197,7 +3197,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao C2",
+				"Name": "C2",
 				"description": null
 			},
 			"geometry": {
@@ -3643,7 +3643,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao C3",
+				"Name": "C3",
 				"description": null
 			},
 			"geometry": {
@@ -3997,7 +3997,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao C4",
+				"Name": "C4",
 				"description": null
 			},
 			"geometry": {
@@ -4411,7 +4411,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao C5",
+				"Name": "C5",
 				"description": null
 			},
 			"geometry": {
@@ -4837,7 +4837,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao C6",
+				"Name": "C6",
 				"description": null
 			},
 			"geometry": {
@@ -5395,7 +5395,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao C7",
+				"Name": "C7",
 				"description": null
 			},
 			"geometry": {
@@ -5673,7 +5673,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER1",
+				"Name": "ER1",
 				"description": null
 			},
 			"geometry": {
@@ -5787,7 +5787,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER2",
+				"Name": "ER2",
 				"description": null
 			},
 			"geometry": {
@@ -5861,7 +5861,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER3",
+				"Name": "ER3",
 				"description": null
 			},
 			"geometry": {
@@ -5931,7 +5931,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER4",
+				"Name": "ER4",
 				"description": null
 			},
 			"geometry": {
@@ -5969,7 +5969,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER5",
+				"Name": "ER5",
 				"description": null
 			},
 			"geometry": {
@@ -6031,7 +6031,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER6",
+				"Name": "ER6",
 				"description": null
 			},
 			"geometry": {
@@ -6249,7 +6249,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER7",
+				"Name": "ER7",
 				"description": null
 			},
 			"geometry": {
@@ -6339,7 +6339,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER8",
+				"Name": "ER8",
 				"description": null
 			},
 			"geometry": {
@@ -6429,7 +6429,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao ER9",
+				"Name": "ER9",
 				"description": null
 			},
 			"geometry": {
@@ -6591,7 +6591,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G Corg",
+				"Name": "G Corg",
 				"description": null
 			},
 			"geometry": {
@@ -6953,7 +6953,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G1",
+				"Name": "G1",
 				"description": null
 			},
 			"geometry": {
@@ -6987,7 +6987,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G2",
+				"Name": "G2",
 				"description": null
 			},
 			"geometry": {
@@ -7021,7 +7021,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G3",
+				"Name": "G3",
 				"description": null
 			},
 			"geometry": {
@@ -7055,7 +7055,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G4",
+				"Name": "G4",
 				"description": null
 			},
 			"geometry": {
@@ -7089,7 +7089,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G5",
+				"Name": "G5",
 				"description": null
 			},
 			"geometry": {
@@ -7123,7 +7123,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G6",
+				"Name": "G6",
 				"description": null
 			},
 			"geometry": {
@@ -7165,7 +7165,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G7",
+				"Name": "G7",
 				"description": null
 			},
 			"geometry": {
@@ -7199,7 +7199,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G8",
+				"Name": "G8",
 				"description": null
 			},
 			"geometry": {
@@ -7233,7 +7233,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G9",
+				"Name": "G9",
 				"description": null
 			},
 			"geometry": {
@@ -7267,7 +7267,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G10",
+				"Name": "G10",
 				"description": null
 			},
 			"geometry": {
@@ -7301,7 +7301,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G11",
+				"Name": "G11",
 				"description": null
 			},
 			"geometry": {
@@ -7335,7 +7335,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G12",
+				"Name": "G12",
 				"description": null
 			},
 			"geometry": {
@@ -7369,7 +7369,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G13",
+				"Name": "G13",
 				"description": null
 			},
 			"geometry": {
@@ -7403,7 +7403,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G14",
+				"Name": "G14",
 				"description": null
 			},
 			"geometry": {
@@ -7437,7 +7437,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao G15",
+				"Name": "G15",
 				"description": null
 			},
 			"geometry": {
@@ -7471,7 +7471,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao GL1",
+				"Name": "GL1",
 				"description": null
 			},
 			"geometry": {
@@ -7557,7 +7557,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao GL2",
+				"Name": "GL2",
 				"description": null
 			},
 			"geometry": {
@@ -7619,7 +7619,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao GL3",
+				"Name": "GL3",
 				"description": null
 			},
 			"geometry": {
@@ -7709,7 +7709,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao GL4",
+				"Name": "GL4",
 				"description": null
 			},
 			"geometry": {
@@ -7835,7 +7835,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao GL5",
+				"Name": "GL5",
 				"description": null
 			},
 			"geometry": {
@@ -7965,7 +7965,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao IT1",
+				"Name": "IT1",
 				"description": null
 			},
 			"geometry": {
