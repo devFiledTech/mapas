@@ -379,7 +379,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "OP 7",
+				"Name": "OP7",
 				"description": null
 			},
 			"geometry": {
@@ -2285,7 +2285,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "J5",
+				"Name": "JT5",
 				"description": null
 			},
 			"geometry": {
@@ -2343,7 +2343,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "J6",
+				"Name": "JT6",
 				"description": null
 			},
 			"geometry": {
@@ -2377,7 +2377,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "J7",
+				"Name": "JT7",
 				"description": null
 			},
 			"geometry": {
@@ -2539,7 +2539,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "J8",
+				"Name": "JT8",
 				"description": null
 			},
 			"geometry": {
@@ -6591,7 +6591,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G Corg",
+				"Name": "GR CORGAO",
 				"description": null
 			},
 			"geometry": {
@@ -6953,7 +6953,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G1",
+				"Name": "GR1",
 				"description": null
 			},
 			"geometry": {
@@ -6987,7 +6987,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G2",
+				"Name": "GR2",
 				"description": null
 			},
 			"geometry": {
@@ -7021,7 +7021,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G3",
+				"Name": "GR3",
 				"description": null
 			},
 			"geometry": {
@@ -7055,7 +7055,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G4",
+				"Name": "GR4",
 				"description": null
 			},
 			"geometry": {
@@ -7089,7 +7089,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G5",
+				"Name": "GR5",
 				"description": null
 			},
 			"geometry": {
@@ -7123,7 +7123,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G6",
+				"Name": "GR6",
 				"description": null
 			},
 			"geometry": {
@@ -7165,7 +7165,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G7",
+				"Name": "GR7",
 				"description": null
 			},
 			"geometry": {
@@ -7199,7 +7199,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G8",
+				"Name": "GR8",
 				"description": null
 			},
 			"geometry": {
@@ -7233,7 +7233,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G9",
+				"Name": "GR9",
 				"description": null
 			},
 			"geometry": {
@@ -7267,7 +7267,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G10",
+				"Name": "GR10",
 				"description": null
 			},
 			"geometry": {
@@ -7301,7 +7301,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G11",
+				"Name": "GR11",
 				"description": null
 			},
 			"geometry": {
@@ -7335,7 +7335,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G12",
+				"Name": "GR12",
 				"description": null
 			},
 			"geometry": {
@@ -7369,7 +7369,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G13",
+				"Name": "GR13",
 				"description": null
 			},
 			"geometry": {
@@ -7403,7 +7403,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G14",
+				"Name": "GR14",
 				"description": null
 			},
 			"geometry": {
@@ -7437,7 +7437,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "G15",
+				"Name": "GR15",
 				"description": null
 			},
 			"geometry": {
