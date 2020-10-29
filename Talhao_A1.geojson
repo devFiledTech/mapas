@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Talhao A1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Talhao A1", "description": null, "tessellate": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -60.087370125132729, -14.309466190031049 ], [ -60.091431561665757, -14.3078987761074 ], [ -60.107964197876392, -14.316426295177299 ], [ -60.100235088997792, -14.33127868231974 ], [ -60.080925872381208, -14.32137542091708 ], [ -60.087370125132729, -14.309466190031049 ] ] ] } }
+]
+}
