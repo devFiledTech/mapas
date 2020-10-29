@@ -9,14 +9,6 @@
 	},
 	"features": [
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao NV3",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
 			"features": [
 				{
 					"type": "Feature",
@@ -168,14 +160,6 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao NV4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
 			"features": [
 				{
 					"type": "Feature",
@@ -259,14 +243,6 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao NV5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
 			"features": [
 				{
 					"type": "Feature",
@@ -354,14 +330,6 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ONC",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
 			"features": [
 				{
 					"type": "Feature",
@@ -429,14 +397,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP 7",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -560,14 +521,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -607,14 +561,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -682,14 +629,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP3",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -729,14 +669,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -776,14 +709,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT6",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -843,14 +769,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT7",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -938,14 +857,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT8",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -985,14 +897,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT9",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -1408,14 +1313,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT10A",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -1951,14 +1849,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT10B",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2274,14 +2165,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao NV1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2381,14 +2265,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao NV2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2504,14 +2381,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao J5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2575,14 +2445,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao J6",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2622,14 +2485,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao J7",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2797,14 +2653,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao J8",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2852,14 +2701,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2939,14 +2781,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -2986,14 +2821,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3033,14 +2861,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao MT5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3092,14 +2913,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao A1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3143,14 +2957,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3190,14 +2997,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP6",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3273,14 +3073,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao OP8",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3320,14 +3113,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao A2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3367,14 +3153,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao A3",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3474,14 +3253,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao A4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3521,14 +3293,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao C1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -3624,14 +3389,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao C2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -4083,14 +3841,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao C3",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -4450,14 +4201,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao C4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -4877,14 +4621,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao C5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -5316,14 +5053,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao C6",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -5887,14 +5617,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao C7",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6178,14 +5901,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6305,14 +6021,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6392,14 +6101,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER3",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6475,14 +6177,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6526,14 +6221,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6601,14 +6289,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER6",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6832,14 +6513,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER7",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -6935,14 +6609,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER8",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7038,14 +6705,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao ER9",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7213,14 +6873,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G Corg",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7588,14 +7241,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7635,14 +7281,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7682,14 +7321,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G3",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7729,14 +7361,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7776,14 +7401,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7823,14 +7441,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G6",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7878,14 +7489,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G7",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7925,14 +7529,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G8",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -7972,14 +7569,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G9",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8019,14 +7609,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G10",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8066,14 +7649,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G11",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8113,14 +7689,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G12",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8160,14 +7729,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G13",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8207,14 +7769,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G14",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8254,14 +7809,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao G15",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8301,14 +7849,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao GL1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8400,14 +7941,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao GL2",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8475,14 +8009,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao GL3",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8578,14 +8105,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao GL4",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8717,14 +8237,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao GL5",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
@@ -8860,14 +8373,7 @@
 			]
 		},
 		{
-			"type": "FeatureCollection",
-			"name": "Talhao IT1",
-			"crs": {
-				"type": "name",
-				"properties": {
-					"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-				}
-			},
+			
 			"features": [
 				{
 					"type": "Feature",
