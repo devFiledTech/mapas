@@ -2285,9 +2285,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao J1",
-				"description": null,
-				
+				"Name": "Talhao JT1",
+				"description": null
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2321,8 +2320,7 @@
 			"type": "Feature",
 			"properties": {
 				"Name": "Talhao JT2",
-				"description": null,
-				
+				"description": null
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2536,8 +2534,7 @@
 			"type": "Feature",
 			"properties": {
 				"Name": "Talhao JT3",
-				"description": null,
-				
+				"description": null
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -2587,8 +2584,7 @@
 			"type": "Feature",
 			"properties": {
 				"Name": "Talhao JT4",
-				"description": null,
-				
+				"description": null
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -8320,7 +8316,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT1",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8358,7 +8354,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT2",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8396,7 +8392,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT3",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8438,7 +8434,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT4",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8508,7 +8504,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT5",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8586,7 +8582,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT6",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8624,7 +8620,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT7",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8662,7 +8658,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT8",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8704,7 +8700,7 @@
 					"type": "Feature",
 					"properties": {
 						"Name": "Talhao IT9",
-						"description": null						
+						"description": null
 					},
 					"geometry": {
 						"type": "Polygon",
@@ -8763,7 +8759,6 @@
 					"properties": {
 						"Name": "Talhao IT10",
 						"description": null
-						
 					},
 					"geometry": {
 						"type": "Polygon",
