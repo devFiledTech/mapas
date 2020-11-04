@@ -2285,7 +2285,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao JT1",
+				"Name": "JT1",
 				"description": null
 			},
 			"geometry": {
@@ -2319,7 +2319,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao JT2",
+				"Name": "T2",
 				"description": null
 			},
 			"geometry": {
@@ -2533,7 +2533,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao JT3",
+				"Name": "JT3",
 				"description": null
 			},
 			"geometry": {
@@ -2583,7 +2583,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"Name": "Talhao JT4",
+				"Name": "JT4",
 				"description": null
 			},
 			"geometry": {
